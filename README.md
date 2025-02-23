@@ -1,8 +1,5 @@
-### Tech Stacks with Links
-
 #### Languages
-[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Java](https://img.shields.io/badge/-Java-000?&logo=java)](https://www.oracle.com/java)  
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://isocpp.org)  
