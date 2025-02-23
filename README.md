@@ -1,4 +1,5 @@
-![jujutsu-kaisen-jujutsu](https://github.com/user-attachments/assets/8c0f236d-8916-46b0-abed-262e669ce844)
+
+![jujutsu-kaisen-hidden-inventory](https://github.com/user-attachments/assets/41f1f808-fa0e-439c-a5fc-b213b37465a8)
 
 
 #### Languages
