@@ -1,11 +1,5 @@
 #### Languages
-[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Java](https://img.shields.io/badge/-Java-000?&logo=java)](https://www.oracle.com/java)  
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://isocpp.org)  
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://www.python.org)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org)  
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)](https://en.wikipedia.org/wiki/SQL)
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Java](https://img.shields.io/badge/-Java-000?&logo=java)](https://www.oracle.com/java)  [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://isocpp.org)  [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://www.python.org)  [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org)  [![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)](https://en.wikipedia.org/wiki/SQL)
 
 #### Frameworks & Libraries
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)](https://getbootstrap.com)  
