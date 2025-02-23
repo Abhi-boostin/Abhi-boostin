@@ -1,3 +1,4 @@
+![jujutsu-kaisen-jujutsu](https://github.com/user-attachments/assets/8c0f236d-8916-46b0-abed-262e669ce844)
 
 
 #### Languages
