@@ -1,5 +1,5 @@
 
-![toji-manga-toji](https://github.com/user-attachments/assets/f310f0a4-1b34-4641-ab65-878fc47b8fed)
+![working-from](https://github.com/user-attachments/assets/0efe8830-ec4b-4bf3-b38a-41ef77198647)
 
 
 #### Languages
